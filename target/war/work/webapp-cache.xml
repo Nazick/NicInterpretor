@@ -1,0 +1,35 @@
+<webapp-structure>
+  <registeredFiles>
+    <entry>
+      <string>currentBuild</string>
+      <path-set>
+        <pathsSet class="linked-hash-set">
+          <string>index.jsp</string>
+          <string>WEB-INF/web.xml</string>
+          <string>WEB-INF/classes/.netbeans_automatic_build</string>
+          <string>WEB-INF/classes/NIC/NicCalculator.class</string>
+          <string>WEB-INF/lib/testng-6.8.7.jar</string>
+          <string>WEB-INF/lib/junit-4.10.jar</string>
+          <string>WEB-INF/lib/hamcrest-core-1.1.jar</string>
+          <string>WEB-INF/lib/bsh-2.0b4.jar</string>
+          <string>WEB-INF/lib/jcommander-1.27.jar</string>
+          <string>WEB-INF/lib/snakeyaml-1.12.jar</string>
+        </pathsSet>
+      </path-set>
+    </entry>
+  </registeredFiles>
+  <dependenciesInfo>
+    <org.apache.maven.plugin.war.util.DependencyInfo>
+      <dependency>
+        <groupId>org.testng</groupId>
+        <artifactId>testng</artifactId>
+        <version>6.8.7</version>
+        <type>jar</type>
+        <scope>compile</scope>
+        <exclusions/>
+        <optional>false</optional>
+      </dependency>
+      <targetFileName>testng-6.8.7.jar</targetFileName>
+    </org.apache.maven.plugin.war.util.DependencyInfo>
+  </dependenciesInfo>
+</webapp-structure>
